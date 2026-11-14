@@ -1,7 +1,7 @@
 import SwiftUI
 import Combine
 
-// MARK: - Game Phase
+// MARK: - Game Phase 1 and first setup
 
 enum GamePhase {
     case idle
