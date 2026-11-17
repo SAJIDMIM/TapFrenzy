@@ -11,6 +11,7 @@
     ],
   },
   "files": [
+    { "kind": "folder", "path": "LightItUp", "target-membership": [ "TapFrenzy" ] },
     { "kind": "folder", "path": "TapFrenzy", "target-membership": [ "TapFrenzy" ] },
     {
       "kind": "group",
